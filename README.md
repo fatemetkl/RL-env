@@ -1,3 +1,3 @@
-# Gym-game
+# RL
 
 example
