@@ -1,5 +1,3 @@
-import gym
-env = gym.make('CartPole-v0')
-#test on main
-
-#codeee
+from ple.games.pong import Pong
+from ple.games.doom import doom
+game = Pong()
